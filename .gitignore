@@ -8,3 +8,6 @@ data/i8.jpg
 data/i9.jpg
 data/i10.jpg
 model/model.pickle
+.dvc/.gitignore
+.dvc/config
+.dvcignore
