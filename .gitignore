@@ -11,3 +11,5 @@ model/model.pickle
 .dvc/.gitignore
 .dvc/config
 .dvcignore
+/data
+/model
